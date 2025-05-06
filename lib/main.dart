@@ -168,7 +168,7 @@ class HomeState extends State<Home> {
             ElevatedButton(
               onPressed: buscarClima,
               style: ElevatedButton.styleFrom(
-              backgroundColor: const Color.fromARGB(255, 70, 69, 69),
+              backgroundColor: const Color.fromARGB(255, 206, 206, 206),
               padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(30),
@@ -178,7 +178,7 @@ class HomeState extends State<Home> {
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.bold,
-                  color: const Color.fromARGB(255, 255, 255, 255),
+                  color: const Color.fromARGB(255, 18, 68, 100),
                 ),
               ),
             ),
